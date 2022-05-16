@@ -19,7 +19,7 @@ Many thanks to u/max-zilla for letting me use the map.  For more awesome work, c
 
 ### Surf Village
 
-<Figure caption="Basic Idea in Surf Village" src="/img/wild-arms/maps/Surf Village (Wild Arms)@0.5x.jpg" />
+<Figure caption="Surf Village" src="/img/wild-arms/maps/Surf Village (Wild Arms)@0.5x.jpg" />
 
 ### Berry Cave
 
