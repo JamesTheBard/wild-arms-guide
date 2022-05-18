@@ -35,9 +35,9 @@ const config = {
       ({
         docs: {
           routeBasePath: '/',
-          admonitions: {
-            icons: "none",
-          },
+          // admonitions: {
+          //   icons: "none",
+          // },
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
